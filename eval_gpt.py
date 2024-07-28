@@ -3,7 +3,7 @@ import ast
 import argparse
 import time
 
-openai.api_key = "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"
+openai.api_key = "your api_key"
 
 def annotate(question, answer, pred):
     try:
